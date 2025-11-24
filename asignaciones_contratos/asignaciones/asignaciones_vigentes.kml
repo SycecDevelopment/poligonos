@@ -25,15 +25,15 @@
 	<Style id="falseColor">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
-  <tr><td><b>ASIGNACION</b></td><td>$[ASIGNACION]</td></tr>
-  <tr><td><b>SUP_KM2</b></td><td>$[SUP_KM2]</td></tr>
-  <tr><td><b>POLIGONO</b></td><td>$[POLIGONO]</td></tr>
-  <tr><td><b>UBICACION</b></td><td>$[UBICACION]</td></tr>
-  <tr><td><b>DESCUBRIM</b></td><td>$[DESCUBRIM]</td></tr>
-  <tr><td><b>TIPO</b></td><td>$[TIPO]</td></tr>
-  <tr><td><b>block_id</b></td><td>$[block_id]</td></tr>
-  <tr><td><b>IDENTIFICA</b></td><td>$[IDENTIFICA]</td></tr>
-</table>]]></text>
+			<tr><td><b>ASIGNACION</b></td><td>$[ASIGNACION]</td></tr>
+			<tr><td><b>SUP_KM2</b></td><td>$[SUP_KM2]</td></tr>
+			<tr><td><b>POLIGONO</b></td><td>$[POLIGONO]</td></tr>
+			<tr><td><b>UBICACION</b></td><td>$[UBICACION]</td></tr>
+			<tr><td><b>DESCUBRIM</b></td><td>$[DESCUBRIM]</td></tr>
+			<tr><td><b>TIPO</b></td><td>$[TIPO]</td></tr>
+			<tr><td><b>block_id</b></td><td>$[block_id]</td></tr>
+			<tr><td><b>IDENTIFICA</b></td><td>$[IDENTIFICA]</td></tr>
+			</table>]]></text>
 		</BalloonStyle>
 		<LineStyle>
 			<color>ff5b823a</color>
@@ -46,15 +46,15 @@
 	<Style id="falseColor0">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
-  <tr><td><b>ASIGNACION</b></td><td>$[ASIGNACION]</td></tr>
-  <tr><td><b>SUP_KM2</b></td><td>$[SUP_KM2]</td></tr>
-  <tr><td><b>POLIGONO</b></td><td>$[POLIGONO]</td></tr>
-  <tr><td><b>UBICACION</b></td><td>$[UBICACION]</td></tr>
-  <tr><td><b>DESCUBRIM</b></td><td>$[DESCUBRIM]</td></tr>
-  <tr><td><b>TIPO</b></td><td>$[TIPO]</td></tr>
-  <tr><td><b>block_id</b></td><td>$[block_id]</td></tr>
-  <tr><td><b>IDENTIFICA</b></td><td>$[IDENTIFICA]</td></tr>
-</table>]]></text>
+			<tr><td><b>ASIGNACION</b></td><td>$[ASIGNACION]</td></tr>
+			<tr><td><b>SUP_KM2</b></td><td>$[SUP_KM2]</td></tr>
+			<tr><td><b>POLIGONO</b></td><td>$[POLIGONO]</td></tr>
+			<tr><td><b>UBICACION</b></td><td>$[UBICACION]</td></tr>
+			<tr><td><b>DESCUBRIM</b></td><td>$[DESCUBRIM]</td></tr>
+			<tr><td><b>TIPO</b></td><td>$[TIPO]</td></tr>
+			<tr><td><b>block_id</b></td><td>$[block_id]</td></tr>
+			<tr><td><b>IDENTIFICA</b></td><td>$[IDENTIFICA]</td></tr>
+			</table>]]></text>
 		</BalloonStyle>
 		<LineStyle>
 			<color>ff5b823a</color>
