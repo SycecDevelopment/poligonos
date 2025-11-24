@@ -6,7 +6,7 @@
 	<Style id="falseColor">
 		<BalloonStyle>
 			<text><![CDATA[<table border="0">
-			<tr><td><b>ASIGNACION</b></td><td>$[ASIGNACION]</td></tr>
+			<tr><td><b>ASIGNACIN</b></td><td>$[ASIGNACION]</td></tr>
 			<tr><td><b>SUP_KM2</b></td><td>$[SUP_KM2]</td></tr>
 			<tr><td><b>POLIGONO</b></td><td>$[POLIGONO]</td></tr>
 			<tr><td><b>UBICACION</b></td><td>$[UBICACION]</td></tr>
