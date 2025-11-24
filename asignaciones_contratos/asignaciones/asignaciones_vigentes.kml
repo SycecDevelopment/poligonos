@@ -61,16 +61,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<SchemaData schemaUrl="#S_A_AE_AR_ID_SDSSSSSS">
-					<SimpleData name="ASIGNACION">AE-0179-2M - MAGUEY</SimpleData>
-					<SimpleData name="SUP_KM2">2490.85</SimpleData>
-					<SimpleData name="POLIGONO"></SimpleData>
-					<SimpleData name="UBICACION">TERRESTRE</SimpleData>
-					<SimpleData name="DESCUBRIM"></SimpleData>
-					<SimpleData name="TIPO">AE</SimpleData>
-					<SimpleData name="block_id">AE-0179</SimpleData>
-					<SimpleData name="IDENTIFICA">179</SimpleData>
-				</SchemaData>
+				<Data name="ASIGNACION">AE-0179-2M - MAGUEY</Data>
+				<Data name="SUP_KM2">2490.85</Data>
+				<Data name="POLIGONO"></Data>
+				<Data name="UBICACION">TERRESTRE</Data>
+				<Data name="DESCUBRIM"></Data>
+				<Data name="TIPO">AE</Data>
+				<Data name="block_id">AE-0179</Data>
+				<Data name="IDENTIFICA">179</Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
@@ -82,7 +80,7 @@
 				</outerBoundaryIs>
 			</Polygon>
 		</Placemark>
-		<Placemark>
+		<!-- <Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_A_AE_AR_ID_SDSSSSSS">
@@ -11210,7 +11208,7 @@
 					</LinearRing>
 				</outerBoundaryIs>
 			</Polygon>
-		</Placemark>
+		</Placemark> -->
 	</Folder>
 </Document>
 </kml>
