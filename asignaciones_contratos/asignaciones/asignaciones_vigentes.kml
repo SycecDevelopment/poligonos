@@ -99,14 +99,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<Data name="ASIGNACION"><value><value>AE-0179-2M - MAGUEY</value></value></Data>
-				<Data name="SUP_KM2"><value><value>2490.85</value></value></Data>
-				<Data name="POLIGONO"><value><value></value></value></Data>
-				<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-				<Data name="DESCUBRIM"><value><value></value></value></Data>
-				<Data name="TIPO"><value><value>AE</value></value></Data>
-				<Data name="block_id"><value><value>AE-0179</value></value></Data>
-				<Data name="IDENTIFICA"><value><value>179</value></value></Data>
+				<Data name="ASIGNACION"><value>AE-0179-2M - MAGUEY</value></Data>
+				<Data name="SUP_KM2"><value>2490.85</value></Data>
+				<Data name="POLIGONO"><value></value></Data>
+				<Data name="UBICACION"><value>TERRESTRE</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0179</value></Data>
+				<Data name="IDENTIFICA"><value>179</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
@@ -121,14 +121,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<Data name="ASIGNACION"><value><value>AE-0180-2M - LIMONARIA</value></value></Data>
-				<Data name="SUP_KM2"><value><value>2421.78</value></value></Data>
-				<Data name="POLIGONO"><value><value></value></value></Data>
-				<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-				<Data name="DESCUBRIM"><value><value></value></value></Data>
-				<Data name="TIPO"><value><value>AE</value></value></Data>
-				<Data name="block_id"><value><value>AE-0180</value></value></Data>
-				<Data name="IDENTIFICA"><value><value>180</value></value></Data>
+				<Data name="ASIGNACION"><value>AE-0180-2M - LIMONARIA</value></Data>
+				<Data name="SUP_KM2"><value>2421.78</value></Data>
+				<Data name="POLIGONO"><value></value></Data>
+				<Data name="UBICACION"><value>TERRESTRE</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0180</value></Data>
+				<Data name="IDENTIFICA"><value>180</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
@@ -143,14 +143,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<Data name="ASIGNACION"><value><value>AE-0144-4M - COMALCALCO</value></value></Data>
-				<Data name="SUP_KM2"><value><value>2130.63</value></value></Data>
-				<Data name="POLIGONO"><value><value></value></value></Data>
-				<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-				<Data name="DESCUBRIM"><value><value></value></value></Data>
-				<Data name="TIPO"><value><value>AE</value></value></Data>
-				<Data name="block_id"><value><value>AE-0144</value></value></Data>
-				<Data name="IDENTIFICA"><value><value>144</value></value></Data>
+				<Data name="ASIGNACION"><value>AE-0144-4M - COMALCALCO</value></Data>
+				<Data name="SUP_KM2"><value>2130.63</value></Data>
+				<Data name="POLIGONO"><value></value></Data>
+				<Data name="UBICACION"><value>TERRESTRE</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0144</value></Data>
+				<Data name="IDENTIFICA"><value>144</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
@@ -172,14 +172,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<Data name="ASIGNACION"><value><value>AE-0176-2M - XANATI</value></value></Data>
-				<Data name="SUP_KM2"><value><value>2128.57</value></value></Data>
-				<Data name="POLIGONO"><value><value></value></value></Data>
-				<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-				<Data name="DESCUBRIM"><value><value></value></value></Data>
-				<Data name="TIPO"><value><value>AE</value></value></Data>
-				<Data name="block_id"><value><value>AE-0176</value></value></Data>
-				<Data name="IDENTIFICA"><value><value>176</value></value></Data>
+				<Data name="ASIGNACION"><value>AE-0176-2M - XANATI</value></Data>
+				<Data name="SUP_KM2"><value>2128.57</value></Data>
+				<Data name="POLIGONO"><value></value></Data>
+				<Data name="UBICACION"><value>TERRESTRE</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0176</value></Data>
+				<Data name="IDENTIFICA"><value>176</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
@@ -201,14 +201,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<Data name="ASIGNACION"><value><value>AE-0173-2M - HOLOK</value></value></Data>
-				<Data name="SUP_KM2"><value><value>1979.39</value></value></Data>
-				<Data name="POLIGONO"><value><value></value></value></Data>
-				<Data name="UBICACION"><value><value>AGUAS PROFUNDAS</value></value></Data>
-				<Data name="DESCUBRIM"><value><value></value></value></Data>
-				<Data name="TIPO"><value><value>AE</value></value></Data>
-				<Data name="block_id"><value><value>AE-0173</value></value></Data>
-				<Data name="IDENTIFICA"><value><value>173</value></value></Data>
+				<Data name="ASIGNACION"><value>AE-0173-2M - HOLOK</value></Data>
+				<Data name="SUP_KM2"><value>1979.39</value></Data>
+				<Data name="POLIGONO"><value></value></Data>
+				<Data name="UBICACION"><value>AGUAS PROFUNDAS</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0173</value></Data>
+				<Data name="IDENTIFICA"><value>173</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
@@ -223,14 +223,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<Data name="ASIGNACION"><value><value>AE-0151-4M - UCHUKIL</value></value></Data>
-				<Data name="SUP_KM2"><value><value>1958.96</value></value></Data>
-				<Data name="POLIGONO"><value><value>A</value></value></Data>
-				<Data name="UBICACION"><value><value>AGUAS SOMERAS</value></value></Data>
-				<Data name="DESCUBRIM"><value><value></value></value></Data>
-				<Data name="TIPO"><value><value>AE</value></value></Data>
-				<Data name="block_id"><value><value>AE-0151</value></value></Data>
-				<Data name="IDENTIFICA"><value><value>151</value></value></Data>
+				<Data name="ASIGNACION"><value>AE-0151-4M - UCHUKIL</value></Data>
+				<Data name="SUP_KM2"><value>1958.96</value></Data>
+				<Data name="POLIGONO"><value>A</value></Data>
+				<Data name="UBICACION"><value>AGUAS SOMERAS</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0151</value></Data>
+				<Data name="IDENTIFICA"><value>151</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
@@ -252,14 +252,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<Data name="ASIGNACION"><value><value>AE-0178-2M - CASTANA</value></value></Data>
-				<Data name="SUP_KM2"><value><value>1953.84</value></value></Data>
-				<Data name="POLIGONO"><value><value></value></value></Data>
-				<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-				<Data name="DESCUBRIM"><value><value></value></value></Data>
-				<Data name="TIPO"><value><value>AE</value></value></Data>
-				<Data name="block_id"><value><value>AE-0178</value></value></Data>
-				<Data name="IDENTIFICA"><value><value>178</value></value></Data>
+				<Data name="ASIGNACION"><value>AE-0178-2M - CASTANA</value></Data>
+				<Data name="SUP_KM2"><value>1953.84</value></Data>
+				<Data name="POLIGONO"><value></value></Data>
+				<Data name="UBICACION"><value>TERRESTRE</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0178</value></Data>
+				<Data name="IDENTIFICA"><value>178</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
@@ -282,14 +282,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0175-3M - CHUYAN</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1935.65</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>AE-0175</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>175</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0175-3M - CHUYAN</value></Data>
+					<Data name="SUP_KM2"><value>1935.65</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>TERRESTRE</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0175</value></Data>
+					<Data name="IDENTIFICA"><value>175</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -306,14 +306,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0181-2M - KUKNI</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1915.28</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>AE-0181</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>181</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0181-2M - KUKNI</value></Data>
+					<Data name="SUP_KM2"><value>1915.28</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>TERRESTRE</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0181</value></Data>
+					<Data name="IDENTIFICA"><value>181</value></Data>
 				
 			</ExtendedData>
 			<MultiGeometry>
@@ -341,14 +341,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0392-2M - PANUCO</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1857.01</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>A-0392</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>392</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0392-2M - PANUCO</value></Data>
+					<Data name="SUP_KM2"><value>1857.01</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>TERRESTRE</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>A-0392</value></Data>
+					<Data name="IDENTIFICA"><value>392</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -365,14 +365,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0124-3M - LLAVE</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1790.13</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>AE-0124</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>124</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0124-3M - LLAVE</value></Data>
+					<Data name="SUP_KM2"><value>1790.13</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>TERRESTRE</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0124</value></Data>
+					<Data name="IDENTIFICA"><value>124</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -389,14 +389,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0149-3M - UCHUKIL</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1727.55</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>AGUAS SOMERAS</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>AE-0149</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>149</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0149-3M - UCHUKIL</value></Data>
+					<Data name="SUP_KM2"><value>1727.55</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>AGUAS SOMERAS</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0149</value></Data>
+					<Data name="IDENTIFICA"><value>149</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -425,14 +425,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0389-2M - ALTAMIRA</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1674.58</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>A-0389</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>389</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0389-2M - ALTAMIRA</value></Data>
+					<Data name="SUP_KM2"><value>1674.58</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>TERRESTRE</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>A-0389</value></Data>
+					<Data name="IDENTIFICA"><value>389</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -449,14 +449,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0111-2M - AREA PERDIDO</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1663.37</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>AGUAS PROFUNDAS</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>AE-0111</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>111</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0111-2M - AREA PERDIDO</value></Data>
+					<Data name="SUP_KM2"><value>1663.37</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>AGUAS PROFUNDAS</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0111</value></Data>
+					<Data name="IDENTIFICA"><value>111</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -473,14 +473,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0177-2M - YUBAN</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1608.16</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>TERRESTRE</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>AE-0177</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>177</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0177-2M - YUBAN</value></Data>
+					<Data name="SUP_KM2"><value>1608.16</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>TERRESTRE</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0177</value></Data>
+					<Data name="IDENTIFICA"><value>177</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -497,14 +497,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0160-3M - CHALABIL</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1459.24</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>AGUAS SOMERAS</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>AE-0160</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>160</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0160-3M - CHALABIL</value></Data>
+					<Data name="SUP_KM2"><value>1459.24</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>AGUAS SOMERAS</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0160</value></Data>
+					<Data name="IDENTIFICA"><value>160</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -528,14 +528,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				
-					<Data name="ASIGNACION"><value><value>AE-0174-2M - HOLOK</value></value></Data>
-					<Data name="SUP_KM2"><value><value>1380.96</value></value></Data>
-					<Data name="POLIGONO"><value><value></value></value></Data>
-					<Data name="UBICACION"><value><value>AGUAS PROFUNDAS</value></value></Data>
-					<Data name="DESCUBRIM"><value><value></value></value></Data>
-					<Data name="TIPO"><value><value>AE</value></value></Data>
-					<Data name="block_id"><value><value>AE-0174</value></value></Data>
-					<Data name="IDENTIFICA"><value><value>174</value></value></Data>
+					<Data name="ASIGNACION"><value>AE-0174-2M - HOLOK</value></Data>
+					<Data name="SUP_KM2"><value>1380.96</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>AGUAS PROFUNDAS</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0174</value></Data>
+					<Data name="IDENTIFICA"><value>174</value></Data>
 				
 			</ExtendedData>
 			<MultiGeometry>
