@@ -122,14 +122,14 @@
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
 				<SchemaData schemaUrl="#S_A_AE_AR_ID_SDSSSSSS">
-					<SimpleData name="ASIGNACION"><value>AE-0180-2M - LIMONARIA</value></SimpleData>
-					<SimpleData name="SUP_KM2"><value>2421.78</value></SimpleData>
-					<SimpleData name="POLIGONO"><value></value></SimpleData>
-					<SimpleData name="UBICACION"><value>TERRESTRE</value></SimpleData>
-					<SimpleData name="DESCUBRIM"><value></value></SimpleData>
-					<SimpleData name="TIPO"><value>AE</value></SimpleData>
-					<SimpleData name="block_id"><value>AE-0180</value></SimpleData>
-					<SimpleData name="IDENTIFICA"><value>180</value></SimpleData>
+					<Data name="ASIGNACION"><value>AE-0180-2M - LIMONARIA</value></Data>
+					<Data name="SUP_KM2"><value>2421.78</value></Data>
+					<Data name="POLIGONO"><value></value></Data>
+					<Data name="UBICACION"><value>TERRESTRE</value></Data>
+					<Data name="DESCUBRIM"><value></value></Data>
+					<Data name="TIPO"><value>AE</value></Data>
+					<Data name="block_id"><value>AE-0180</value></Data>
+					<Data name="IDENTIFICA"><value>180</value></Data>
 				</SchemaData>
 			</ExtendedData>
 			<Polygon>
