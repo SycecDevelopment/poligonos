@@ -61,14 +61,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<Data name="ASIGNACION">AE-0179-2M - MAGUEY</Data>
-				<Data name="SUP_KM2">2490.85</Data>
-				<Data name="POLIGONO"></Data>
-				<Data name="UBICACION">TERRESTRE</Data>
-				<Data name="DESCUBRIM"></Data>
-				<Data name="TIPO">AE</Data>
-				<Data name="block_id">AE-0179</Data>
-				<Data name="IDENTIFICA">179</Data>
+				<Data name="ASIGNACION"><value>AE-0179-2M - MAGUEY</value></Data>
+				<Data name="SUP_KM2"><value>2490.85</value></Data>
+				<Data name="POLIGONO"><value></value></Data>
+				<Data name="UBICACION"><value>TERRESTRE</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0179</value></Data>
+				<Data name="IDENTIFICA"><value>179</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
