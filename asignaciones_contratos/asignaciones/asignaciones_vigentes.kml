@@ -121,16 +121,14 @@
 		<Placemark>
 			<styleUrl>#falseColor0</styleUrl>
 			<ExtendedData>
-				<SchemaData schemaUrl="#S_A_AE_AR_ID_SDSSSSSS">
-					<Data name="ASIGNACION"><value>AE-0180-2M - LIMONARIA</value></Data>
-					<Data name="SUP_KM2"><value>2421.78</value></Data>
-					<Data name="POLIGONO"><value></value></Data>
-					<Data name="UBICACION"><value>TERRESTRE</value></Data>
-					<Data name="DESCUBRIM"><value></value></Data>
-					<Data name="TIPO"><value>AE</value></Data>
-					<Data name="block_id"><value>AE-0180</value></Data>
-					<Data name="IDENTIFICA"><value>180</value></Data>
-				</SchemaData>
+				<Data name="ASIGNACION"><value>AE-0180-2M - LIMONARIA</value></Data>
+				<Data name="SUP_KM2"><value>2421.78</value></Data>
+				<Data name="POLIGONO"><value></value></Data>
+				<Data name="UBICACION"><value>TERRESTRE</value></Data>
+				<Data name="DESCUBRIM"><value></value></Data>
+				<Data name="TIPO"><value>AE</value></Data>
+				<Data name="block_id"><value>AE-0180</value></Data>
+				<Data name="IDENTIFICA"><value>180</value></Data>
 			</ExtendedData>
 			<Polygon>
 				<outerBoundaryIs>
