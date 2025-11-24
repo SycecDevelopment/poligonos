@@ -5,16 +5,35 @@
 	<open>1</open>
 	<Style id="falseColor">
 		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-			<tr><td><b>ASIGNACION</b></td><td>$[ASIGNACION]</td></tr>
-			<tr><td><b>SUP_KM2</b></td><td>$[SUP_KM2]</td></tr>
-			<tr><td><b>POLIGONO</b></td><td>$[POLIGONO]</td></tr>
-			<tr><td><b>UBICACION</b></td><td>$[UBICACION]</td></tr>
-			<tr><td><b>DESCUBRIM</b></td><td>$[DESCUBRIM]</td></tr>
-			<tr><td><b>TIPO</b></td><td>$[TIPO]</td></tr>
-			<tr><td><b>block_id</b></td><td>$[block_id]</td></tr>
-			<tr><td><b>IDENTIFICA</b></td><td>$[IDENTIFICA]</td></tr>
-			</table>]]></text>
+			<text><![CDATA[
+				<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[block_id]</h5>
+				<table border="0">
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ID</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[block_id]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>TIPO</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[TIPO]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ASIGNACION</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[ASIGNACION]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>POLIGONO</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[POLIGONO]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>DESCUBRIMIENTO</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[DESCUBRIM]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>SUPERFICIE (KM2)</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[SUP_KM2]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>LOCALIZACION</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[UBICACION]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>CAPA</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">Vigentes</td></tr>
+				</table>]]>
+			</text>
 		</BalloonStyle>
 		<LineStyle>
 			<color>e6005500</color>
@@ -36,16 +55,35 @@
 	</StyleMap>
 	<Style id="falseColor1">
 		<BalloonStyle>
-			<text><![CDATA[<table border="0">
-			<tr><td><b>ASIGNACION</b></td><td>$[ASIGNACION]</td></tr>
-			<tr><td><b>SUP_KM2</b></td><td>$[SUP_KM2]</td></tr>
-			<tr><td><b>POLIGONO</b></td><td>$[POLIGONO]</td></tr>
-			<tr><td><b>UBICACION</b></td><td>$[UBICACION]</td></tr>
-			<tr><td><b>DESCUBRIM</b></td><td>$[DESCUBRIM]</td></tr>
-			<tr><td><b>TIPO</b></td><td>$[TIPO]</td></tr>
-			<tr><td><b>block_id</b></td><td>$[block_id]</td></tr>
-			<tr><td><b>IDENTIFICA</b></td><td>$[IDENTIFICA]</td></tr>
-			</table>]]></text>
+			<text><![CDATA[
+				<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[block_id]</h5>
+				<table border="0">
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ID</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[block_id]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>TIPO</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[TIPO]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ASIGNACION</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[ASIGNACION]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>POLIGONO</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[POLIGONO]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>DESCUBRIMIENTO</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[DESCUBRIM]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>SUPERFICIE (KM2)</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[SUP_KM2]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>LOCALIZACION</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[UBICACION]</td></tr>
+					<tr>
+						<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>CAPA</b></td>
+						<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">Vigentes</td></tr>
+				</table>]]>
+			</text>
 		</BalloonStyle>
 		<LineStyle>
 			<color>e6005500</color>
