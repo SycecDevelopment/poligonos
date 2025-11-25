@@ -15,13 +15,13 @@
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>TIPO</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[tipo]</td></tr>
 				<tr>
-					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ASIGNACION</b></td>
+					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ASIGNACIÓN</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[block_name]</td></tr>
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>SUPERFICIE (KM2)</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[sup_km2]</td></tr>
 				<tr>
-					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>UBICACION</b></td>
+					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>UBICACIÓN</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[ubicacion]</td></tr>
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>CAPA</b></td>
@@ -59,13 +59,13 @@
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>TIPO</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[tipo]</td></tr>
 				<tr>
-					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ASIGNACION</b></td>
+					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ASIGNACIÓN</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[block_name]</td></tr>
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>SUPERFICIE (KM2)</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[sup_km2]</td></tr>
 				<tr>
-					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>UBICACION</b></td>
+					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>UBICACIÓN</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[ubicacion]</td></tr>
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>CAPA</b></td>
