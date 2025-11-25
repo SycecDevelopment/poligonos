@@ -9,10 +9,10 @@
 			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[area]</h5>
 			<table border="0">
 				<tr>
-					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>licitacin</b></td>
+					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>LICITACIÓN</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[licitacin]</td></tr>
 				<tr>
-					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>area</b></td>
+					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ÁREA</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[area]</td></tr>
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>CAPA</b></td>
@@ -32,10 +32,10 @@
 			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[area]</h5>
 			<table border="0">
 				<tr>
-					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>licitacin</b></td>
+					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>LICITACIÓN</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[licitacin]</td></tr>
 				<tr>
-					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>area</b></td>
+					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>ÁREA</b></td>
 					<td style="padding: 6px 9px !important; border: solid 1px #D3D3D3;">$[area]</td></tr>
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>CAPA</b></td>
