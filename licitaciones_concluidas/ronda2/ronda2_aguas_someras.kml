@@ -6,7 +6,7 @@
 	<Style id="falseColor">
 		<BalloonStyle>
 			<text><![CDATA[
-			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[licitacin]</h5>
+			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[area]</h5>
 			<table border="0">
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>LICITACIÓN</b></td>
@@ -31,7 +31,7 @@
 	<Style id="falseColor0">
 		<BalloonStyle>
 			<text><![CDATA[
-			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[licitacin]</h5>
+			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[area]</h5>
 			<table border="0">
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>LICITACIÓN</b></td>

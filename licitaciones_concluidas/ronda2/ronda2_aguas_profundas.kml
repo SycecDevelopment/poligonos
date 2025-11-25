@@ -6,7 +6,7 @@
 	<Style id="falseColor">
 		<BalloonStyle>
 			<text><![CDATA[
-			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[licitacin]</h5>
+			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[area]</h5>
 			<table border="0">
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>LICITACIÓN</b></td>
@@ -21,16 +21,17 @@
 			]]></text>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ffdf7bfd</color>
+			<color>e600aa00</color>
+			<width>0.7</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff8aff62</color>
+			<color>80005500</color>
 		</PolyStyle>
 	</Style>
 	<Style id="falseColor0">
 		<BalloonStyle>
 			<text><![CDATA[
-			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[licitacin]</h5>
+			<h5 style="color: #611232; font-size: 15px; text-align: center; margin: 15px auto;">$[area]</h5>
 			<table border="0">
 				<tr>
 					<td style="font-size: 0.75rem; color: white; background-color: #611232; padding: 6px 9px !important; border-bottom: solid 1px #fff;"><b>LICITACIÓN</b></td>
@@ -45,10 +46,11 @@
 			]]></text>
 		</BalloonStyle>
 		<LineStyle>
-			<color>ffdf7bfd</color>
+			<color>e600aa00</color>
+			<width>0.7</width>
 		</LineStyle>
 		<PolyStyle>
-			<color>ff8aff62</color>
+			<color>80005500</color>
 		</PolyStyle>
 	</Style>
 	<StyleMap id="falseColor1">
