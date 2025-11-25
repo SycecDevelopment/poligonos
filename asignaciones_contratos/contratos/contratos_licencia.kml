@@ -3,16 +3,6 @@
 <Document id="root_doc">
 	<name>Licencia.shp</name>
 	<open>1</open>
-	<StyleMap id="falseColor0">
-		<Pair>
-			<key>normal</key>
-			<styleUrl>#falseColor0</styleUrl>
-		</Pair>
-		<Pair>
-			<key>highlight</key>
-			<styleUrl>#falseColor1</styleUrl>
-		</Pair>
-	</StyleMap>
 	<Style id="falseColor">
 		<BalloonStyle>
 			<text><![CDATA[
@@ -86,6 +76,16 @@
 			<color>800055ff</color>
 		</PolyStyle>
 	</Style>
+	<StyleMap id="falseColor0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#falseColor</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#falseColor1</styleUrl>
+		</Pair>
+	</StyleMap>
 	<Style id="falseColor1">
 		<BalloonStyle>
 			<text><![CDATA[
