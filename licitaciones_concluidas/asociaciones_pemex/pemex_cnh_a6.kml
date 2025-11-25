@@ -106,14 +106,14 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				
-					<Data name="cluster"><value>Bacal-Nelash</value></SimpleData>
-					<Data name="fecha_de_c"><value>27/04/2018</value></SimpleData>
-					<Data name="fecha_de_l"><value>31/10/2018</value></SimpleData>
-					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></SimpleData>
-					<Data name="ubicacin"><value>Terrestre</value></SimpleData>
-					<Data name="superficie"><value>156.197</value></SimpleData>
-					<Data name="estatus"><value>Por Adjudicar</value></SimpleData>
-					<Data name="tipo_de_co"><value>Licencia</value></SimpleData>
+					<Data name="cluster"><value>Bacal-Nelash</value></Data>
+					<Data name="fecha_de_c"><value>27/04/2018</value></Data>
+					<Data name="fecha_de_l"><value>31/10/2018</value></Data>
+					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></Data>
+					<Data name="ubicacin"><value>Terrestre</value></Data>
+					<Data name="superficie"><value>156.197</value></Data>
+					<Data name="estatus"><value>Por Adjudicar</value></Data>
+					<Data name="tipo_de_co"><value>Licencia</value></Data>
 				
 			</ExtendedData>
 			<MultiGeometry>
@@ -141,14 +141,14 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				
-					<Data name="cluster"><value>Lacamango</value></SimpleData>
-					<Data name="fecha_de_c"><value>27/04/2018</value></SimpleData>
-					<Data name="fecha_de_l"><value>31/10/2018</value></SimpleData>
-					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></SimpleData>
-					<Data name="ubicacin"><value>Terrestre</value></SimpleData>
-					<Data name="superficie"><value>16.265</value></SimpleData>
-					<Data name="estatus"><value>Por Adjudicar</value></SimpleData>
-					<Data name="tipo_de_co"><value>Licencia</value></SimpleData>
+					<Data name="cluster"><value>Lacamango</value></Data>
+					<Data name="fecha_de_c"><value>27/04/2018</value></Data>
+					<Data name="fecha_de_l"><value>31/10/2018</value></Data>
+					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></Data>
+					<Data name="ubicacin"><value>Terrestre</value></Data>
+					<Data name="superficie"><value>16.265</value></Data>
+					<Data name="estatus"><value>Por Adjudicar</value></Data>
+					<Data name="tipo_de_co"><value>Licencia</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -165,14 +165,14 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				
-					<Data name="cluster"><value>Juspi-Teotleco</value></SimpleData>
-					<Data name="fecha_de_c"><value>27/04/2018</value></SimpleData>
-					<Data name="fecha_de_l"><value>31/10/2018</value></SimpleData>
-					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></SimpleData>
-					<Data name="ubicacin"><value>Terrestre</value></SimpleData>
-					<Data name="superficie"><value>449.951</value></SimpleData>
-					<Data name="estatus"><value>Por Adjudicar</value></SimpleData>
-					<Data name="tipo_de_co"><value>Licencia</value></SimpleData>
+					<Data name="cluster"><value>Juspi-Teotleco</value></Data>
+					<Data name="fecha_de_c"><value>27/04/2018</value></Data>
+					<Data name="fecha_de_l"><value>31/10/2018</value></Data>
+					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></Data>
+					<Data name="ubicacin"><value>Terrestre</value></Data>
+					<Data name="superficie"><value>449.951</value></Data>
+					<Data name="estatus"><value>Por Adjudicar</value></Data>
+					<Data name="tipo_de_co"><value>Licencia</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -189,14 +189,14 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				
-					<Data name="cluster"><value>Giraldas-Sunuapa</value></SimpleData>
-					<Data name="fecha_de_c"><value>27/04/2018</value></SimpleData>
-					<Data name="fecha_de_l"><value>31/10/2018</value></SimpleData>
-					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></SimpleData>
-					<Data name="ubicacin"><value>Terrestre</value></SimpleData>
-					<Data name="superficie"><value>1,726.376</value></SimpleData>
-					<Data name="estatus"><value>Por Adjudicar</value></SimpleData>
-					<Data name="tipo_de_co"><value>Licencia</value></SimpleData>
+					<Data name="cluster"><value>Giraldas-Sunuapa</value></Data>
+					<Data name="fecha_de_c"><value>27/04/2018</value></Data>
+					<Data name="fecha_de_l"><value>31/10/2018</value></Data>
+					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></Data>
+					<Data name="ubicacin"><value>Terrestre</value></Data>
+					<Data name="superficie"><value>1,726.376</value></Data>
+					<Data name="estatus"><value>Por Adjudicar</value></Data>
+					<Data name="tipo_de_co"><value>Licencia</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -213,14 +213,14 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				
-					<Data name="cluster"><value>Cinco Presidentes</value></SimpleData>
-					<Data name="fecha_de_c"><value>27/04/2018</value></SimpleData>
-					<Data name="fecha_de_l"><value>31/10/2018</value></SimpleData>
-					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></SimpleData>
-					<Data name="ubicacin"><value>Terrestre</value></SimpleData>
-					<Data name="superficie"><value>167.118</value></SimpleData>
-					<Data name="estatus"><value>Por Adjudicar</value></SimpleData>
-					<Data name="tipo_de_co"><value>Licencia</value></SimpleData>
+					<Data name="cluster"><value>Cinco Presidentes</value></Data>
+					<Data name="fecha_de_c"><value>27/04/2018</value></Data>
+					<Data name="fecha_de_l"><value>31/10/2018</value></Data>
+					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></Data>
+					<Data name="ubicacin"><value>Terrestre</value></Data>
+					<Data name="superficie"><value>167.118</value></Data>
+					<Data name="estatus"><value>Por Adjudicar</value></Data>
+					<Data name="tipo_de_co"><value>Licencia</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -237,14 +237,14 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				
-					<Data name="cluster"><value>Bedel-Gasífero</value></SimpleData>
-					<Data name="fecha_de_c"><value>27/04/2018</value></SimpleData>
-					<Data name="fecha_de_l"><value>31/10/2018</value></SimpleData>
-					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></SimpleData>
-					<Data name="ubicacin"><value>Terrestre</value></SimpleData>
-					<Data name="superficie"><value>1,168.112</value></SimpleData>
-					<Data name="estatus"><value>Por Adjudicar</value></SimpleData>
-					<Data name="tipo_de_co"><value>Licencia</value></SimpleData>
+					<Data name="cluster"><value>Bedel-Gasífero</value></Data>
+					<Data name="fecha_de_c"><value>27/04/2018</value></Data>
+					<Data name="fecha_de_l"><value>31/10/2018</value></Data>
+					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></Data>
+					<Data name="ubicacin"><value>Terrestre</value></Data>
+					<Data name="superficie"><value>1,168.112</value></Data>
+					<Data name="estatus"><value>Por Adjudicar</value></Data>
+					<Data name="tipo_de_co"><value>Licencia</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
@@ -261,14 +261,14 @@
 			<styleUrl>#falseColor1</styleUrl>
 			<ExtendedData>
 				
-					<Data name="cluster"><value>Artesa</value></SimpleData>
-					<Data name="fecha_de_c"><value>27/04/2018</value></SimpleData>
-					<Data name="fecha_de_l"><value>31/10/2018</value></SimpleData>
-					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></SimpleData>
-					<Data name="ubicacin"><value>Terrestre</value></SimpleData>
-					<Data name="superficie"><value>893.134</value></SimpleData>
-					<Data name="estatus"><value>Por Adjudicar</value></SimpleData>
-					<Data name="tipo_de_co"><value>Licencia</value></SimpleData>
+					<Data name="cluster"><value>Artesa</value></Data>
+					<Data name="fecha_de_c"><value>27/04/2018</value></Data>
+					<Data name="fecha_de_l"><value>31/10/2018</value></Data>
+					<Data name="licitacin"><value>CNH-A6-7 Asociaciones/2018</value></Data>
+					<Data name="ubicacin"><value>Terrestre</value></Data>
+					<Data name="superficie"><value>893.134</value></Data>
+					<Data name="estatus"><value>Por Adjudicar</value></Data>
+					<Data name="tipo_de_co"><value>Licencia</value></Data>
 				
 			</ExtendedData>
 			<Polygon>
