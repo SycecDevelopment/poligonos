@@ -3,7 +3,6 @@
 <Document>
 	<name>Aguas Profundas.shp</name>
 	<open>1</open>
-	</Schema>
 	<Style id="falseColor">
 		<BalloonStyle>
 			<text><![CDATA[
