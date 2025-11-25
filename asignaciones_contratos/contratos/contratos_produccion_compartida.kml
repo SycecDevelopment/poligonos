@@ -160,7 +160,7 @@
 		</Pair>
 	</StyleMap>
 	<Folder id="layer 0">
-		<name>Produccion Compartida</name>
+		<name>Produccion_Compartida</name>
 		<open>1</open>
 		<Placemark>
 			<styleUrl>#falseColor1</styleUrl>
@@ -175,7 +175,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">532.645</value></Data>
+					<Data name="superficie"><value>532.645</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Eni México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Italia</value></Data>
@@ -209,7 +209,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">813.782</value></Data>
+					<Data name="superficie"><value>813.782</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Repsol Exploración México, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>España</value></Data>
@@ -243,7 +243,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">521.167</value></Data>
+					<Data name="superficie"><value>521.167</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Lukoil Upstream México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Rusia</value></Data>
@@ -277,7 +277,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">1027.4</value></Data>
+					<Data name="superficie"><value>1027.4</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Pemex Exploración y Producción</value></Data>
 					<Data name="pas"><value>Francia y México</value></Data>
@@ -311,7 +311,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">562.375</value></Data>
+					<Data name="superficie"><value>562.375</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Eni México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Reino Unido, México</value></Data>
@@ -345,7 +345,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">580.873</value></Data>
+					<Data name="superficie"><value>580.873</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>TotalEnergies EP México, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>Francia y México</value></Data>
@@ -379,7 +379,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">797.995</value></Data>
+					<Data name="superficie"><value>797.995</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Shell Exploracion y Extraccion de Mexico, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>Países Bajos y México</value></Data>
@@ -413,7 +413,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">807.759</value></Data>
+					<Data name="superficie"><value>807.759</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Eni México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Italia y Rusia</value></Data>
@@ -447,7 +447,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">470.579</value></Data>
+					<Data name="superficie"><value>470.579</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Pemex Exploración y Producción</value></Data>
 					<Data name="pas"><value>México</value></Data>
@@ -481,7 +481,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">527.891</value></Data>
+					<Data name="superficie"><value>527.891</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Wintershall Dea México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Alemania, Reino Unido y Malasia</value></Data>
@@ -515,7 +515,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">262.76</value></Data>
+					<Data name="superficie"><value>262.76</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Hokchi Energy, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>Argentina</value></Data>
@@ -549,7 +549,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">784.799</value></Data>
+					<Data name="superficie"><value>784.799</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Wintershall Dea México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>México, Alemania y España</value></Data>
@@ -583,7 +583,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">842.363</value></Data>
+					<Data name="superficie"><value>842.363</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Wintershall Dea México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>México, Alemania y España</value></Data>
@@ -617,7 +617,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>07/01/2016</value></Data>
 					<Data name="vigencia"><value>25</value></Data>
-					<Data name="superficie">57.966</value></Data>
+					<Data name="superficie"><value>57.966</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Fieldwood Energy E&amp;P México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>E.U.A., México</value></Data>
@@ -662,7 +662,7 @@
 					<Data name="ubicacin"><value>Terrestre</value></Data>
 					<Data name="fecha_de_f"><value>18/12/2017</value></Data>
 					<Data name="vigencia"><value>25</value></Data>
-					<Data name="superficie">153.193</value></Data>
+					<Data name="superficie"><value>153.193</value></Data>
 					<Data name="tipo_de_co"><value>Migración con socio</value></Data>
 					<Data name="operador"><value>Perenco México, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>México y Reino Unido</value></Data>
@@ -707,7 +707,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">811.349</value></Data>
+					<Data name="superficie"><value>811.349</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Repsol Exploración México, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>España</value></Data>
@@ -741,7 +741,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>07/01/2016</value></Data>
 					<Data name="vigencia"><value>25</value></Data>
-					<Data name="superficie">39.598</value></Data>
+					<Data name="superficie"><value>39.598</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Hokchi Energy, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>Estados Unidos, México y Argentina</value></Data>
@@ -775,7 +775,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>02/05/2017</value></Data>
 					<Data name="vigencia"><value>22</value></Data>
-					<Data name="superficie">63.373</value></Data>
+					<Data name="superficie"><value>63.373</value></Data>
 					<Data name="tipo_de_co"><value>Migración sin socio</value></Data>
 					<Data name="operador"><value>Pemex Exploración y Producción</value></Data>
 					<Data name="pas"><value>México</value></Data>
@@ -820,7 +820,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">590.752</value></Data>
+					<Data name="superficie"><value>590.752</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Eni México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Italia, Reino Unido, México</value></Data>
@@ -854,7 +854,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">559.284</value></Data>
+					<Data name="superficie"><value>559.284</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>PC Carigali Mexico Operations, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>Malasia, Colombia</value></Data>
@@ -888,7 +888,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">548.657</value></Data>
+					<Data name="superficie"><value>548.657</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Pemex Exploración y Producción</value></Data>
 					<Data name="pas"><value>Alemania, México</value></Data>
@@ -922,7 +922,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>30/11/2015</value></Data>
 					<Data name="vigencia"><value>25</value></Data>
-					<Data name="superficie">67.203</value></Data>
+					<Data name="superficie"><value>67.203</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Eni México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Italia</value></Data>
@@ -976,7 +976,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">532.926</value></Data>
+					<Data name="superficie"><value>532.926</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Repsol Exploración México, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>España, México</value></Data>
@@ -1010,7 +1010,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">494.635</value></Data>
+					<Data name="superficie"><value>494.635</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Capricorn Energy México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Reino Unido y México</value></Data>
@@ -1044,7 +1044,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>04/09/2015</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">18.5518</value></Data>
+					<Data name="superficie"><value>18.5518</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Talos Energy Offshore Mexico 7, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>México, E.U.A., Inglaterra</value></Data>
@@ -1078,7 +1078,7 @@
 					<Data name="ubicacin"><value>Terrestre</value></Data>
 					<Data name="fecha_de_f"><value>02/03/2018</value></Data>
 					<Data name="vigencia"><value>25</value></Data>
-					<Data name="superficie">1307.15</value></Data>
+					<Data name="superficie"><value>1307.15</value></Data>
 					<Data name="tipo_de_co"><value>Migración con socio</value></Data>
 					<Data name="operador"><value>Servicios Múltiples de Burgos, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>México</value></Data>
@@ -1132,7 +1132,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">391.395</value></Data>
+					<Data name="superficie"><value>391.395</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Premier Oil Mexico Recursos, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>Reino Unido</value></Data>
@@ -1166,7 +1166,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">391.869</value></Data>
+					<Data name="superficie"><value>391.869</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Premier Oil Mexico Recursos, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>Reino Unido</value></Data>
@@ -1200,7 +1200,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">586.002</value></Data>
+					<Data name="superficie"><value>586.002</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Pemex Exploración y Producción</value></Data>
 					<Data name="pas"><value>México, Colombia</value></Data>
@@ -1234,7 +1234,7 @@
 					<Data name="ubicacin"><value>Terrestre</value></Data>
 					<Data name="fecha_de_f"><value>03/08/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">1569.12</value></Data>
+					<Data name="superficie"><value>1569.12</value></Data>
 					<Data name="tipo_de_co"><value>Migración con socio</value></Data>
 					<Data name="operador"><value>DS Servicios Petroleros, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>México</value></Data>
@@ -1268,7 +1268,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">228.822</value></Data>
+					<Data name="superficie"><value>228.822</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Eni México, S. de R.L. de C.V.</value></Data>
 					<Data name="pas"><value>Italia, México</value></Data>
@@ -1313,7 +1313,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>27/06/2018</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">813.269</value></Data>
+					<Data name="superficie"><value>813.269</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>Pemex Exploración y Producción</value></Data>
 					<Data name="pas"><value>México</value></Data>
@@ -1347,7 +1347,7 @@
 					<Data name="ubicacin"><value>Aguas someras</value></Data>
 					<Data name="fecha_de_f"><value>25/09/2017</value></Data>
 					<Data name="vigencia"><value>30</value></Data>
-					<Data name="superficie">484.282</value></Data>
+					<Data name="superficie"><value>484.282</value></Data>
 					<Data name="tipo_de_co"><value>Producción compartida</value></Data>
 					<Data name="operador"><value>TotalEnergies EP México, S.A. de C.V.</value></Data>
 					<Data name="pas"><value>Francia, Holanda</value></Data>
